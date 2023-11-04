@@ -3,7 +3,7 @@ This is a project designed to generate Artificial Intelligence based images usin
 
 The working files of Colab as a server provide GPU support to the user to interact and play without any tension of resource utilization.
 
-Just open and run the Colab file and paste the backend URL in the following browsed link:https://text-to-image-using-ai-approach-413po4utxu2.streamlit.app/ and enjoy.
+Just open and run the Colab file and paste the backend URL in the following browsed link:https://texttoimage-gc2rpkjftimrtzp5epmbjy.streamlit.app/ and enjoy.
 
 The app is designed in streamlit.
 
